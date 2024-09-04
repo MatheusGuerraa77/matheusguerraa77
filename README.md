@@ -1,6 +1,16 @@
 ## Olá! Matheus Guerra aqui
 
-- 🌟 Desenvolvedor Python , cursando sistemas de informação.Apaixonado por tecnologia, esportes, futebol e temente a Deus!
+- 🌟  Tenho 19 anos e sou apaixonado por tecnologia, esportes, futebol e temente a Deus!
+
+Atualmente venho me dedicando a expandir meus conhecimentos e habilidades práticas na
+área de tecnologia com constante compromisso com a aprendizagem contínua, buscando me manter atualizado sobre as últimas tendências e avanços tecnológicos.
+
+## Sobre mim
+- 👨‍🎓 Graduando em Sistemas de Informação
+- 🚀 (Desenvolvedor Python) Atualmente aprimorando habilidades e desenvolvendo projetos em Python
+- 💻 Entusiasta de novas tecnologias e tendências 
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-guerra-485070277)
 
