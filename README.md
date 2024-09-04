@@ -1,9 +1,11 @@
 ## Olá! Matheus Guerra aqui
 
-- 🌟  Tenho 19 anos e sou apaixonado por tecnologia, esportes, futebol e temente a Deus!
-
-Atualmente venho me dedicando a expandir meus conhecimentos e habilidades práticas na
+- 🌟  Tenho 19 anos e sou apaixonado por tecnologia, esportes, futebol e temente a Deus! 
+ 
+- Atualmente venho me dedicando a expandir meus conhecimentos e habilidades práticas na
 área de tecnologia com constante compromisso com a aprendizagem contínua, buscando me manter atualizado sobre as últimas tendências e avanços tecnológicos.
+
+- Acredito que o segredo para alcançar nossos sonhos está na constância e na determinação. Não importa o lugar ou as circunstâncias, o que faz a diferença é a nossa atitude. 
 
 ## Sobre mim
 - 👨‍🎓 Graduando em Sistemas de Informação
