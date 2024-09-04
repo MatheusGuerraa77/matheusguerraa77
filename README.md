@@ -13,6 +13,7 @@ Atualmente venho me dedicando a expandir meus conhecimentos e habilidades práti
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-guerra-485070277)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:matheusaraujoguerra2603@outlook.com)
 
   ![MatheusGuerra GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusGuerraa77&show_icons=true&theme=neon)
 
