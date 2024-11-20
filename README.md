@@ -8,7 +8,7 @@ para soluções inovadoras que façam a diferença.
 ## Sobre mim
 - 👨‍🎓 Graduando em Sistemas de Informação, minha trajetória no mercado de trabalho começou em 2023,
 e desde então, venho construindo uma base sólida com práticas e aprimoramento em Dados, Desenvolvimento de Software 
-e automação de processos, sempre guiado pela fé em DEUS, por foco, disciplina e a busca por impacto positivo em projetos.🚀💻
+e automação de processos, sempre guiado pela fé em DEUS, por foco, disciplina e a busca por impacto positivo em projetos!🚀💻
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-guerra-485070277)
